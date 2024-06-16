@@ -1,0 +1,75 @@
+body{
+    background-image:url(/imagenes/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #061939;
+
+}
+.nav-enlace{
+
+    color: #fff;
+    display: inline-block;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: #4e96f5;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 10px;
+}
+.MenuP{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+.text-border {
+
+    color: white; 
+    text-shadow: 
+    1px 1px 0 #000,  
+    -1px -1px 0 #000,  
+    -1px 1px 0 #000,  
+    1px -1px 0 #000,  
+    1px 0 0 #000,     
+    -1px 0 0 #000,     
+    0 1px 0 #000,     
+    0 -1px 0 #000;    
+}
+
+.textos{
+    
+    padding: 10px;
+    margin: 10%;
+    color: #fff;
+    justify-content:center;
+
+}
+
+
+
+    
+    
+.titulosdeTextos{
+    font-family: "Playwrite NL";
+    font-size: 70px;
+    justify-content:center;
+}
+
+.Tprincipal{
+    font-family: "Playwrite NL";
+    color: #fff;
+    text-align: center;
+    padding: 20%;
+    font-size: 100px;
+    
+    display: inline-block;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 0%;
+    
+}
+hr{
+    border:none;
+    
+}
